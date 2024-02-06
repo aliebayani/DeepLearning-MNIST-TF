@@ -15,18 +15,17 @@ This repository contains code for a machine learning exercise completed as part 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/aliebayani/DeepLearning-MNIST-TF.git
+   cd DeepLearning-MNIST-TF
 
-1. Install dependencies:
-   # Assuming you have TensorFlow installed
+2. Install dependencies:
+## Assuming you have TensorFlow installed
 pip install -r requirements.txt
 
-2. Explore the code and run the MNIST classifier:
+3. Explore the code and run the MNIST classifier:
    python mnist.py
 
 License
 This project is licensed under the Apache License, Version 2.0 - see the LICENSE file for details.
 
-
-2020
+© 2020-2022 Ali Bayani
