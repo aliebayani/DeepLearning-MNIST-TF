@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for a machine learning exercise completed as part of my university course. The project focuses on building a classifier for the MNIST dataset using TensorFlow, a popular machine learning library.
+This repository contains code for a machine learning exercise completed as part of my university course (2020). The project focuses on building a classifier for the MNIST dataset using TensorFlow, a popular machine learning library.
 
 ## Files
 
