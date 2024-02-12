@@ -28,4 +28,4 @@ pip install -r requirements.txt
 ## License
 This project is licensed under the Apache License, Version 2.0 - see the LICENSE file for details.
 
-© 2020-2022 Ali Bayani
+© 2020-2022 ALI BAYANI
